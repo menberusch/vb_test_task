@@ -44,7 +44,7 @@ Please Choose From the Following Options:
   2. Withdraw
   3. Log Out
 
-    account_menu
+account_menu
 
     @option = STDIN.gets.chomp.to_i
 
